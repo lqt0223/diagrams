@@ -1,44 +1,44 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="Qc7_TSUXBKY831pVKN8F">
-    <mxGraphModel dx="1060" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="t4ncWfjQFac2fhnCVk4v-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;必剪studio&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#71e08f;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="120" y="260" width="640" height="40" as="geometry" />
+        <mxCell id="t4ncWfjQFac2fhnCVk4v-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;必剪studio&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#71e08f;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="120" y="230" width="640" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="t4ncWfjQFac2fhnCVk4v-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;metadata读写&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#76d5e8;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="380" y="320" width="120" height="40" as="geometry" />
+        <mxCell id="t4ncWfjQFac2fhnCVk4v-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;metadata读写&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#76d5e8;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="380" y="350" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="t4ncWfjQFac2fhnCVk4v-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;视频合成&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#76d5e8;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="120" y="320" width="120" height="40" as="geometry" />
+        <mxCell id="t4ncWfjQFac2fhnCVk4v-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;视频合成&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#76d5e8;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="120" y="350" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="t4ncWfjQFac2fhnCVk4v-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;合成预览&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#76d5e8;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="250" y="320" width="120" height="40" as="geometry" />
+        <mxCell id="t4ncWfjQFac2fhnCVk4v-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;合成预览&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#76d5e8;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="250" y="350" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="t4ncWfjQFac2fhnCVk4v-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;拼接和分割&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#76d5e8;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="510" y="320" width="120" height="40" as="geometry" />
+        <mxCell id="t4ncWfjQFac2fhnCVk4v-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;拼接和分割&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#76d5e8;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="510" y="350" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="t4ncWfjQFac2fhnCVk4v-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;简单转码转格式&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#76d5e8;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="640" y="320" width="120" height="40" as="geometry" />
+        <mxCell id="t4ncWfjQFac2fhnCVk4v-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;转码转格式&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#76d5e8;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="640" y="350" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="t4ncWfjQFac2fhnCVk4v-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;WebCodecs&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe1c9;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="120" y="380" width="220" height="40" as="geometry" />
+        <mxCell id="t4ncWfjQFac2fhnCVk4v-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;WebCodecs&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;最佳合成性能&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe1c9;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="120" y="440" width="220" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="t4ncWfjQFac2fhnCVk4v-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;FFmpeg&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe1c9;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="480" y="380" width="280" height="40" as="geometry" />
+        <mxCell id="t4ncWfjQFac2fhnCVk4v-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;FFmpeg&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;最佳合成兼容性 + 其他音视频能力&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe1c9;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="480" y="440" width="280" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="t4ncWfjQFac2fhnCVk4v-9" value="libav / C++" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe1c9;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="350" y="380" width="120" height="40" as="geometry" />
+        <mxCell id="t4ncWfjQFac2fhnCVk4v-9" value="libav / C++&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;合成预览功能&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe1c9;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="350" y="440" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="i3kE-76TrgarWCtaI7S5-4" value="业务项目" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="30" y="265" width="80" height="30" as="geometry" />
+        <mxCell id="i3kE-76TrgarWCtaI7S5-8" value="业务项目" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#2bc864;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="365" y="310" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i3kE-76TrgarWCtaI7S5-5" value="底层能力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="30" y="385" width="80" height="30" as="geometry" />
+        <mxCell id="i3kE-76TrgarWCtaI7S5-11" value="应用场景" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#06aeec;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="365" y="400" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i3kE-76TrgarWCtaI7S5-6" value="音视频能力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="30" y="325" width="80" height="30" as="geometry" />
+        <mxCell id="i3kE-76TrgarWCtaI7S5-12" value="技术选型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff7f24;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="365" y="610" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
