@@ -28,7 +28,7 @@
         <mxCell id="3VIQuk2y1fccYM4NqY5o-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="1" source="3VIQuk2y1fccYM4NqY5o-15" target="3VIQuk2y1fccYM4NqY5o-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3VIQuk2y1fccYM4NqY5o-15" value="合成场景JSON" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;fillColor=#71E08F;strokeColor=#82b366;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="3VIQuk2y1fccYM4NqY5o-15" value="合成场景JSON" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;fillColor=#76D5E8;strokeColor=#82b366;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="385" y="280" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3VIQuk2y1fccYM4NqY5o-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="1" source="3VIQuk2y1fccYM4NqY5o-16" target="3VIQuk2y1fccYM4NqY5o-17" edge="1">
@@ -43,13 +43,13 @@
         <mxCell id="3VIQuk2y1fccYM4NqY5o-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3VIQuk2y1fccYM4NqY5o-16" target="3VIQuk2y1fccYM4NqY5o-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3VIQuk2y1fccYM4NqY5o-16" value="翻译和执行模块" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;fillColor=#71E08F;strokeColor=#82b366;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="3VIQuk2y1fccYM4NqY5o-16" value="翻译和执行模块" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;fillColor=#76D5E8;strokeColor=#82b366;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="385" y="370" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3VIQuk2y1fccYM4NqY5o-17" value="FFmpeg&lt;div&gt;高兼容&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;fillColor=#76D5E8;strokeColor=#6c8ebf;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="3VIQuk2y1fccYM4NqY5o-17" value="FFmpeg&lt;div&gt;高兼容&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;fillColor=#71E08F;strokeColor=#6c8ebf;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="290" y="500" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3VIQuk2y1fccYM4NqY5o-23" value="WebCodecs&lt;div&gt;高性能&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;fillColor=#76D5E8;strokeColor=#6c8ebf;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="3VIQuk2y1fccYM4NqY5o-23" value="WebCodecs&lt;div&gt;高性能&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;fillColor=#71E08F;strokeColor=#6c8ebf;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="480" y="500" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3VIQuk2y1fccYM4NqY5o-29" value="旧" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
