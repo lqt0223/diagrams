@@ -7,7 +7,7 @@
         <mxCell id="JvDSZgQpRml9D514sd0_-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="1" source="JvDSZgQpRml9D514sd0_-21" target="JvDSZgQpRml9D514sd0_-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JvDSZgQpRml9D514sd0_-21" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px;&quot;&gt;合成场景描述&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;fillColor=#76D5E8;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="JvDSZgQpRml9D514sd0_-21" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px;&quot;&gt;合成场景JSON&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;fillColor=#76D5E8;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="80" y="620" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JvDSZgQpRml9D514sd0_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="JvDSZgQpRml9D514sd0_-22" target="JvDSZgQpRml9D514sd0_-25" edge="1">
